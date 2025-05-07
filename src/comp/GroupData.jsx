@@ -1,7 +1,4 @@
-
-
-
-
+// Description: This component allows users to select a group and view its associated data in a table format. It uses dummy data for demonstration purposes and provides a button to navigate to a group manager page.
 
 
 import { useEffect, useState } from "react";
